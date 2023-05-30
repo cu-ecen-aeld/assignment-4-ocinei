@@ -1,1 +1,1 @@
-Updated ssh key
+Update storage of remote VM
